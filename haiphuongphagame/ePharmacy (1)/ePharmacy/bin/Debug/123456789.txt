@@ -1,0 +1,46 @@
+1123456789
+Khách hàng:Khach 1
+Số điện thoại:123456789
+JointCarePlus - Mỹ - Lọ 60 Viên:162000x1=162000VND
+Tổng tiền: 162000VND
+Ghi chú: 
+01/05/2025
+------------------CẢM ƠN QUÝ KHÁCH HÀNG-------------------
+
+1123456789
+
+DH20250501_2123456789
+Khách hàng:Khach 1
+Số điện thoại:123456789
+Combo thuốc bổ:525000x3=1575000VND
+Ecosip7.5x10cm - Tatra - H20túix 5Miếng:234000x2=468000VND
+Tổng tiền: 2043000VND
+Ghi chú: 
+01/05/2025
+------------------CẢM ƠN QUÝ KHÁCH HÀNG-------------------
+
+DH20250501_2123456789
+
+DH20250514_3123456789
+Khách hàng:hii
+Số điện thoại:123456789
+JointCarePlus - Mỹ - Lọ 60 Viên:162000x2=324000VND
+Dịch vụ thay băng, cắt chỉ:100000x2=200000VND
+Tổng tiền: 524000VND
+Ghi chú: 
+14/05/2025
+------------------CẢM ƠN QUÝ KHÁCH HÀNG-------------------
+
+DH20250514_3123456789
+
+DH20250514_6123456789
+Khách hàng:hii
+Số điện thoại:123456789
+Tràng Vị Khang - Đông Á - H6Gói:5500x1=5500VND
+Tổng tiền: 5500VND
+Ghi chú: 
+14/05/2025
+------------------CẢM ƠN QUÝ KHÁCH HÀNG-------------------
+
+DH20250514_6123456789
+

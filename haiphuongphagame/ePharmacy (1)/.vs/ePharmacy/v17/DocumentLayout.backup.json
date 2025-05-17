@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HAI\\Documents\\WindowForm_CK\\haiphuongphagame\\ePharmacy (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|C:\\Users\\HAI\\Documents\\WindowForm_CK\\haiphuongphagame\\ePharmacy (1)\\epharmacy\\sign_in_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\sign_in_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|c:\\users\\hai\\documents\\windowform_ck\\haiphuongphagame\\epharmacy (1)\\epharmacy\\sign_up_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\sign_up_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sign_up_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI\\Documents\\WindowForm_CK\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_up_Form.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Sign_up_Form.cs",
+              "ToolTip": "C:\\Users\\HAI\\Documents\\WindowForm_CK\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_up_Form.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Sign_up_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:41:54.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sign_in_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HAI\\Documents\\WindowForm_CK\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_in_Form.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Sign_in_Form.cs",
+              "ToolTip": "C:\\Users\\HAI\\Documents\\WindowForm_CK\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_in_Form.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Sign_in_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:41:14.121Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Login.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Register.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe.config
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\ePharmacy.pdb
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\bin\Debug\Guna.UI2.dll
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Login.resources
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Register.resources
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.exe
+D:\LT_WIND\WindowForm_CK\ePharmacy\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\HAI\Downloads\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+C:\Users\HAI\Documents\baitap\ePharmacy\ePharmacy\bin\Debug\QRCoder.dll
+D:\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe.config
+D:\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe
+D:\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.pdb
+D:\ePharmacy (1)\ePharmacy\bin\Debug\Guna.UI2.dll
+D:\ePharmacy (1)\ePharmacy\bin\Debug\QRCoder.dll
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Employee.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe
+D:\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\bin\Debug\QRCoder.dll
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Employee.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.KT_don.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.PhanHoi.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.doanhThu.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sokhambenh.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_TK.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\WindowForm_CK\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKe.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\QRCoder.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Employee.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.KT_don.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.PhanHoi.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.doanhThu.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sokhambenh.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_TK.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKe.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\riscv64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\libSkiaSharp.dylib
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.ValueTuple.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe.config
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKeDoanhThu.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyNhanVien.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyKhoThuoc.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\arm\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\riscv64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\libSkiaSharp.dylib
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\QRCoder.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.ValueTuple.dll
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.xml
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.pdb
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.xml
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.xml
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe.config
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Employee.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.KT_don.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.PhanHoi.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyKhoThuoc.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyNhanVien.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKeDoanhThu.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sokhambenh.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_TK.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKe.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\baitap\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\riscv64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\libSkiaSharp.dylib
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\QRCoder.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.ValueTuple.dll
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe.config
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Employee.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.KT_don.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.PhanHoi.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyKhoThuoc.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyNhanVien.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKeDoanhThu.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sokhambenh.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_TK.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKe.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\Huỳnh Thanh Nhân\source\repos\Lap_trinh_window\NhaThuoc\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe.config
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Employee.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.KT_don.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.PhanHoi.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyKhoThuoc.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyNhanVien.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKeDoanhThu.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sokhambenh.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_TK.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKe.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\arm\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\riscv64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\libSkiaSharp.dylib
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\QRCoder.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.ValueTuple.dll
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.xml
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.pdb
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.xml
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.xml
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\Huỳnh Thanh Nhân\Documents\Zalo Received Files\haiphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\arm\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\riscv64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\libSkiaSharp.dylib
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe.config
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\ePharmacy.pdb
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\Guna.UI2.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\QRCoder.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.ValueTuple.dll
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\ScottPlot.xml
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.pdb
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Buffers.xml
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Memory.xml
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.AssemblyReference.cache
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe.config
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Cham_soc_KH.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Customer.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Employee.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.KT_don.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Manager.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.PhanHoi.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Properties.Resources.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyKhoThuoc.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.QuanLyNhanVien.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKeDoanhThu.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_in_Form.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sign_up_Form.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Sokhambenh.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.So_Kham_Benh.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_don.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Tao_TK.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThanhToan.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.ThongKe.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.Thong_tin_KH.resources
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.GenerateResource.cache
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.csproj.Up2Date
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.exe
+C:\Users\HAI\Documents\WindowForm_CK\haiphuongphagame\ePharmacy (1)\ePharmacy\obj\Debug\ePharmacy.pdb

@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\thongkedoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\thong_tin_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\thong_tin_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\tao_tk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\tao_tk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\tao_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\tao_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\sokhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\sokhambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\so_kham_benh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\so_kham_benh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\sign_in_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\sign_in_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\quanlynhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\quanlykhothuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\quanlykhothuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\phanhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\phanhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\kt_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\kt_don.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|d:\\ky2_y2\\lt_win\\haiphuongphagame (2)\\haiphuongphagame\\epharmacy (1)\\epharmacy\\cham_soc_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\cham_soc_kh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\epharmacy\\sign_up_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08272457-F2AC-4FC2-9B4B-B2F7889F1334}|ePharmacy\\ePharmacy.csproj|solutionrelative:epharmacy\\sign_up_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 295,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThongKeDoanhThu.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\ThongKeDoanhThu.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\ThongKeDoanhThu.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\ThongKeDoanhThu.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\ThongKeDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:42.96Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\ThongKe.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\ThongKe.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\ThongKe.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:41.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thong_tin_KH.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Thong_tin_KH.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Thong_tin_KH.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Thong_tin_KH.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Thong_tin_KH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:39.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThanhToan.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\ThanhToan.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\ThanhToan.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\ThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:38.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tao_TK.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Tao_TK.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Tao_TK.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Tao_TK.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Tao_TK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:37.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tao_don.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Tao_don.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Tao_don.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Tao_don.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Tao_don.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:36.094Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sokhambenh.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sokhambenh.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Sokhambenh.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sokhambenh.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Sokhambenh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:32.74Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "So_Kham_Benh.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\So_Kham_Benh.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\So_Kham_Benh.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\So_Kham_Benh.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\So_Kham_Benh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:29.751Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\QuanLyNhanVien.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\QuanLyNhanVien.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\QuanLyNhanVien.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\QuanLyNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:26.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyKhoThuoc.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\QuanLyKhoThuoc.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\QuanLyKhoThuoc.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\QuanLyKhoThuoc.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\QuanLyKhoThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:25.177Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sign_in_Form.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_in_Form.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Sign_in_Form.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_in_Form.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Sign_in_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:41:14.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhanHoi.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\PhanHoi.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\PhanHoi.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\PhanHoi.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\PhanHoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:20.557Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Manager.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Manager.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Manager.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Manager.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Manager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:18.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KT_don.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\KT_don.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\KT_don.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\KT_don.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\KT_don.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:15.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Employee.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Employee.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Employee.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:11.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Customer.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Customer.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Customer.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:09.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cham_soc_KH.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Cham_soc_KH.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Cham_soc_KH.cs",
+              "ToolTip": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Cham_soc_KH.cs [Design]",
+              "RelativeToolTip": "ePharmacy\\Cham_soc_KH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:29:07.169Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sign_up_Form.cs [Design]",
+              "DocumentMoniker": "D:\\KY2_Y2\\LT_WIN\\haiphuongphagame (2)\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_up_Form.cs",
+              "RelativeDocumentMoniker": "ePharmacy\\Sign_up_Form.cs",
+              "ToolTip": "C:\\Users\\HAI\\Documents\\WindowForm_CK\\haiphuongphagame\\ePharmacy (1)\\ePharmacy\\Sign_up_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:41:54.841Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 105,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
